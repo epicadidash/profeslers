@@ -16,5 +16,5 @@
 ![image](https://user-images.githubusercontent.com/83776308/189698212-04189a51-a970-4cfe-a3cb-95e9d65005f5.png)
 
 
-## I just some sponsors for this project so to make things line up smoothly as this is a very complex project 
+## We are in early stage so any sponsors for this project will be appreciated as it makes things line up smoothly as this is a very complex project 
 

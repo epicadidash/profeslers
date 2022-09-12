@@ -8,9 +8,10 @@
 * Articles and sharing of them (Medium, Hashnode and Dev.to)
 
 
-## This project is currently closed open source project. Those who cannot join just sign here and do a PR
+## This project is currently closed open source project. Those who cannot join just sign here and do a PR.
 * [Adwait Dash](https://twitter.com/epicadidash)
 
+## This project is currently closed open source project. Those who cannot visit the project just sign here and do a PR.
 
 ## I just some sponsors for this project so to make things line up smoothly as this is a very complex project 
 

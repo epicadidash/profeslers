@@ -1,5 +1,5 @@
 # Hello Everyone who is visiting this site
-## This is a very importatnt project for all professionals(Open Source)
+## This is going to be a game changing solution  for all professionals(Open Source)
 ### Many of the professional have to manage multiple accounts across multiple platforms for multiple purposes.This solves this by creating a single platform with all above functionalities. In this project we will be creating a platform which will be a all in one social media. Goals include
 * make the user interfacve more friendly(twitter)
 * Communities(discord)

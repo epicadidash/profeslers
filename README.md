@@ -13,6 +13,6 @@
 ## Current Members
 ![image](https://user-images.githubusercontent.com/83776308/189698212-04189a51-a970-4cfe-a3cb-95e9d65005f5.png)
 
-
+## Everyone who is visiting this , please keep this mind that this project is currently in building so no code has been uploaded. After version 0.1 everything will be uploaded 
 ## We are in early stage so any sponsors for this project will be appreciated as it makes things line up smoothly.
 

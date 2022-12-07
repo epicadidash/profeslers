@@ -8,7 +8,7 @@
 * #### *Articles and sharing of them (like Medium, Hashnode or Dev.to)*
 
 
-## This project is currently closed open source project. Those who cannot join just sign here and do a PR or can DM me on twitter.
+## This project is currently  open source project. Those who cannot join just sign here and do a PR or can DM me on twitter.
 * [Adwait Dash](https://twitter.com/epicadidash)
 ## Current Members
 ![image](https://user-images.githubusercontent.com/83776308/189698212-04189a51-a970-4cfe-a3cb-95e9d65005f5.png)

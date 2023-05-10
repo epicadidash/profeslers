@@ -9,4 +9,4 @@
 * #### *platform and distribute insightful articles*
 
 ## work in progress, feel free to discuss and contribute to your hearts content
-
+## twitter at @profeslers 

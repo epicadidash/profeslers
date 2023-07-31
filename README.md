@@ -8,5 +8,5 @@
 * #### *Embaded code and design elements!*
 * #### *platform and distribute insightful articles*
 
-## work in progress, feel free to discuss and contribute to your hearts content
-## twitter at @profeslers 
+## work in progress, feel free to discuss and contribute to your hearts content 
+## twitter , instagram  at @profeslers 
